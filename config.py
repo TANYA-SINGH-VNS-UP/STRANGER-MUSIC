@@ -14,13 +14,13 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","SHIVANSHDEVS")
+OWNER_USERNAME = getenv("VNI0X")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "Itz_SapnaMusicbot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "NOBITA_SONG_BOT")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME" , "NOBITA MUSIC BOT")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "NOBITA_SONG_BOT")
+ASSUSERNAME = getenv("ASSUSERNAME" , "ANJALI_OP1)")
 # ---------------------------------------------------------
 
 
